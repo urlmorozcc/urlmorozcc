@@ -3,13 +3,8 @@
     "deeplinks": [
         {
             "template": "default",
-            "deeplink": "google",
-            "url": "https://google.com"
-        },
-        {
-            "template": "default",
-            "deeplink": "bravesearch",
-            "url": "https://search.brave.com"
+            "deeplink": "gpdeeplink",
+            "url": "https://github.com/ShiftHackZ/GP-Deeplink"
         }
     ]
 }
